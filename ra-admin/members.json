@@ -19,9 +19,10 @@
       "type": "VARIETY",
       "description": "Justin is a proud LGBTQIA+ streamer, and is one of the founders of Rainbow Arcade. He is a variety streamer who loves story-driven games. He's also well-known within his community for questionable gameplay and an extremely loud laugh. No matter what, his community is a safe, welcoming space for all!",
       "priority": 99,
-      "twitch": "justin_nick",
+      "twitch": "justinplus",
       "twitter": "Justin_Moore",
       "instagram": "JustinickPGH",
+      "youtube": "https://www.youtube.com/channel/UCeOPfAvAwOjf4xBXot4lgTg",
       "image": "JustinSquare.png"
     },
     {
@@ -33,7 +34,7 @@
       "twitch": "J0hnJ0hnn",
       "twitter": "J0hn_J0hnn",
       "instagram": "J0hnJ0hnn",
-      "image": "JJSquare.png"
+      "image": "JJRA.png"
     },
     {
       "name": "ITSDACODA",
@@ -45,18 +46,6 @@
       "twitter": "Itsdacoda",
       "instagram": "Itsdacoda",
       "image": "CodySquare.png"
-    },
-    {
-      "name": "GLENNANGEL",
-      "title": "TEAM LEADER",
-      "type": "VARIETY",
-      "description": "Service with a smile made manifest. Glenn Ángel is an excitable Latinx variety streamer who enjoys Multiplayer Online Games. FFXIV is his main game but you will catch him playing other MMOs such as ESO or battle royales. He loves to practice other languages live so stop by with a \"Ça va?\" \"Tudo Bem?\" or \"¡Hola!\"",
-      "priority": 50,
-      "twitch": "GlennAngel",
-      "twitter": "HelloGlennAngel",
-      "instagram": "glennangel",
-      "website": "https://helloglennangel.com/",
-      "image": "GlennSquare.png"
     },
     {
       "name": "CYPHEROFTYR",
@@ -80,15 +69,27 @@
       "image": "ElaSquare.png"
     },
     {
-      "name": "LITTLELEGSTV",
+      "name": "READYSETBEN",
       "title": "TEAM LEADER",
       "type": "VARIETY",
-      "description": "A Dual-Heritage Gay man! He enjoys playing MMORPGs with a side of whatever his community, The Swine Club, is in the mood for. Constantly clipped out of context but all for the sake of a good laugh. There’s a safe place for you to relax over at LittleLegsTV",
+      "description": "A Dual-Heritage Gay man! He enjoys playing MMORPGs with a side of whatever his community, The Swine Club, is in the mood for. Constantly clipped out of context but all for the sake of a good laugh. There’s a safe place for you to relax over at ReadySetBen",
       "priority": 50,
-      "twitch": "LittleLegsTV",
-      "twitter": "LittleLegs_TV",
-      "instagram": "LittleLegsTV",
+      "twitch": "ReadySetBen",
+      "twitter": "ReadySetBen",
+      "instagram": "ReadySetBen",
       "image": "LittleLegsSquare.png"
+    },
+    {
+      "name": "GLENNANGEL",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Service with a smile made manifest. Glenn Ángel is an excitable Latinx variety streamer who enjoys Multiplayer Online Games. FFXIV is his main game but you will catch him playing other MMOs such as ESO or battle royales. He loves to practice other languages live so stop by with a \"Ça va?\" \"Tudo Bem?\" or \"¡Hola!\"",
+      "priority": 50,
+      "twitch": "GlennAngel",
+      "twitter": "HelloGlennAngel",
+      "instagram": "glennangel",
+      "website": "https://helloglennangel.com/",
+      "image": "GlennSquare.png"
     },
     {
       "name": "THATNERDVIOLET",
@@ -151,13 +152,13 @@
     {
       "name": "KYNETIQ",
       "title": "",
-      "type": "VARIETY",
-      "description": "Kynetiq is a gay variety-caster based in Seattle. His Twitch channel focuses mainly on RPG titles. The mission of the channel is to foster a community where people can come together to discover the important lessons in the games we play. Come on by if you want a chill place to connect with others!",
+      "type": "DEAD BY DAYLIGHT",
+      "description": "Kynetiq is a Dead by Daylight and Variety caster based in Seattle. Engineer by day, streamer by night, he loves to bring people together to share in light-hearted love and appreciation for one another. If you enjoy discussions regarding LGBTQIA+ topics and general witty banter, then please stop by!",
       "priority": 1,
       "twitch": "Kynetiq",
       "twitter": "Kynetiq",
       "instagram": "Kynetiq",
-      "image": "KynetiqSquare.jpg"
+      "image": "kynetiq.jpg"
     },
     {
       "name": "CHILIFARMER",
@@ -205,14 +206,14 @@
       "image": "DagonmarSquare.jpg"
     },
     {
-      "name": "NICOLELONDONIO",
+      "name": "NICOMALAON",
       "title": "",
       "type": "VARIETY",
       "description": "Nicole/Nico LOVES FPS games, but plays and appreciates various types of games. Accessibility is what Nico strives for on Twitch, and other social platforms. A huge activist/advocate for marginalized communities that they're a part of.",
       "priority": 1,
-      "twitch": "NicoleLondonio",
-      "twitter": "NicoleLondonio",
-      "instagram": "Nihk.Nohk",
+      "twitch": "NicoMalaon",
+      "twitter": "NicoMalaon",
+      "instagram": "nicomalaon",
       "image": "NicoleSquare.png"
     },
     {
@@ -234,20 +235,21 @@
       "description": "PleasantlyTwstd is a black ace content creator focused on challenge runs, tryhard games, and RPGs. She makes content to promote a safe space for ALL marginalized peoples, with debauchery, tea, and wine, while raising money for charities such as Trevor Project, St. Jude, TWLOHA, and many more!",
       "priority": 1,
       "twitch": "PleasantlyTwstd",
-      "twitter": "MsTwstd",
-      "instagram": "MsVanessa_b",
+      "twitter": "PleasantlyTwsd",
+      "instagram": "PleasantlyTwsd",
+      "youtube": "https://www.youtube.com/c/PleasantlyTwstd",
       "image": "PleasantlySquare.png"
     },
     {
-      "name": "MERMAIDQUEENJUDE",
+      "name": "MERMAIDROYAL",
       "title": "TEAM LEADER",
       "type": "VARIETY",
       "description": "Jude is a content creator, sailor guardian, and cat mom. She is a bisexual nonbinary femme (she/her & they/them) who plays mainly storybased and indie games. Her community, the Mermaid Kingdom, is based in empathy, compassion, and chaotic goodness.",
       "priority": 10,
-      "twitch": "MermaidQueenJude",
-      "twitter": "MerqueenJude",
+      "twitch": "mermaidroyal",
+      "twitter": "mermaidroyal",
       "instagram": "MermaidQueenJude",
-      "website": "http://www.mermaidqueenjude.com/",
+      "website": "http://www.mermaidroyal.com/",
       "image": "MermaidSquare.png"
     },
     {
@@ -307,13 +309,13 @@
       "image": "KenSquare.png"
     },
     {
-      "name": "BADANDYWRITES",
+      "name": "ANDYTALES",
       "title": "",
       "type": "VARIETY",
-      "description": "Andy is a variety streamer who loves playing story-rich games with relatable characters. When he’s not gaming, you can find him working on his fantasy novel in real-time. Follow along as he tackles revisions and shares details about the publishing industry, writing, and exploits his adorable dog.",
+      "description": "Andy is a variety streamer who loves story-rich games with relatable characters. When he’s not gaming, you can find him editing his novels or writing short stories live on stream. He mainly writes speculative fiction. Follow along as he tackles draft revisions and shares details about the publishing industry.",
       "priority": 1,
-      "twitch": "BadAndyWrites",
-      "twitter": "BadAndyTweets",
+      "twitch": "andytales",
+      "twitter": "ItsAndyTales",
       "instagram": "Andoshoots",
       "image": "AndySquare.png"
     },
@@ -337,7 +339,7 @@
       "twitch": "Haydaru",
       "twitter": "Haydaruuu",
       "instagram": "Haydaruuu",
-      "image": "HaydenSquare.jpg"
+      "image": "HaydaruUpdate.png"
     },
     {
       "name": "SYNXIEC",
@@ -345,9 +347,9 @@
       "type": "VARIETY",
       "description": "Synxiec (sin-zee-eck) is a lover of stories and player of tabletop games, RPGs, the occasional metroidvania, and spilling the tea about life in all its complexity. It is his hope that any visitors to his stream feel seen, loved, and more free to be themselves!",
       "priority": 1,
-      "twitch": "Synxiec",
-      "twitter": "Synxiec",
-      "instagram": "Synxiecbeta",
+      "twitch": "synxiec",
+      "twitter": "synxiecbeta",
+      "instagram": "synxiec",
       "website": "https://www.synxiec.com/",
       "image": "SynxiecSquare.png"
     },
@@ -425,16 +427,16 @@
       "twitch": "DeeNugLife",
       "twitter": "DeeNugLife",
       "instagram": "DeeNugLife",
-      "image": "DeeSquare.png"
+      "image": "deenuglife.png"
     },
     {
-      "name": "JUSTICEKAZZY",
+      "name": "Kagenaga_LN",
       "title": "",
       "type": "VARIETY",
-      "description": "JusticeKazzy (Kazuma) is a trans masc half-Japanese streamer. On his channel you'll find a variety of games being streamed and plenty of different topics being discussed; all ranging from media analysis to Japanese politics and LGBT+ movements around the globe.",
+      "description": "Kagenaga (Kazuma) is a trans masc half-Japanese streamer. On his channel you'll find a variety of games being streamed and plenty of different topics being discussed; all ranging from media analysis to Japanese politics and LGBT+ movements around the globe.",
       "priority": 1,
-      "twitch": "JusticeKazzy",
-      "twitter": "JusticeKazzy_",
+      "twitch": "kagenaga_LN",
+      "twitter": "kagenaga_LN",
       "instagram": "JusticeKazzy",
       "image": "JusticeSquare.png"
     },
@@ -560,7 +562,7 @@
       "name": "AQUARTERGHOST",
       "title": "",
       "type": "VARIETY",
-      "description": "Aquarterghost is a transgender guy that creates a safe space for LGBTQ+ individuals. They stream a variety of chill games such as The Sims 4, Animal Crossing, and Stardew Valley. Their goal is to raise awareness and amplify transgender voices by cultivating a space that speaks out on LGBTQ+ issues.",
+      "description": "AQuarterGhost is a transgender nonbinary person that creates a safe space for LGBTQIA2+ individuals. They stream chill crafting and variety of indie games. Their goal is to raise awareness and amplify transgender voices by cultivating a space that speaks out on LGBTQIA2+ issues.",
       "priority": 1,
       "twitch": "AQuarterGhost",
       "twitter": "AQuarterGhost",
@@ -639,12 +641,12 @@
       "image": "DonaTarte.png"
     },
     {
-      "name": "DRGRZLY",
+      "name": "GRZLY",
       "title": "",
       "type": "VARIETY",
       "description": "DrGRZLY is a variety streamer and queer mental health professional. He streams a variety of games, such as horror, indie titles, and viewer games. DrGRZLY also loves to talk about mental health, and regularly answers mental health questions!  Stop by his friendly community and join the Bear Brigade!",
       "priority": 1,
-      "twitch": "DrGRZLY",
+      "twitch": "GRZLY",
       "twitter": "DrGRZLY",
       "instagram": "DrGRZLY",
       "youtube": "UClDk7f1XrN0YUJIgKgSLN3g",
@@ -652,21 +654,21 @@
       "image": "DRGrzly.png"
     },
     {
-      "name": "HEYOLIAM",
+      "name": "LEEM",
       "title": "",
       "type": "VARIETY",
       "description": "Liam is a British gay variety streamer who loves discovering new horror games that will keep him on his toes. He enjoys playing Dead by Daylight, Overwatch, switch games and many others. Feel free to stop by and chat in his inclusive, welcoming and often lewd community! Be prepared, Liam screams.",
       "priority": 1,
-      "twitch": "heyoliam",
-      "twitter": "heyoliam_",
-      "instagram": "heyoliam_",
+      "twitch": "Leem",
+      "twitter": "LeemTwitch",
+      "instagram": "LeemTwitch",
       "image": "heyoliam.jpg"
     },
     {
       "name": "IGEEKEDOUT",
       "title": "",
       "type": "VARIETY + ARTIST",
-      "description": "iGeekedout (Edwin) is a Queer Latinx content creator and artist. He is a community based, chat focused streamer who loves denim jackets and beanies. He enjoys playing both story-driven and multi-player games. His community, also known as the Beanie Bunch, is the perfect balance and chill and chaos.",
+      "description": "iGeekedout (Edwin) is a Queer Latinx content creator and artist. He is a community based, chat focused streamer who loves denim jackets and beanies. He enjoys playing both story-driven and multi-player games. His community, also known as the Beanie Bunch, is the perfect balance between chill and chaos.",
       "priority": 1,
       "twitch": "iGeekedOut",
       "twitter": "iGeekedOut",
@@ -812,17 +814,17 @@
       "image": "projectruby.jpg"
     },
     {
-      "name": "ROODANNIEMAYS",
+      "name": "ANNIEMAYPLAY",
       "title": "",
       "type": "VARIETY",
       "description": "Tiny transfeminine from the great big country of Canada! Annie is a variety streamer who worries more about cozy vibes, lewd jokes, puns, and ridiculous wordplay than being... well, good at the games she's playing. Always trying to make her audience laugh and feel welcome.",
       "priority": 1,
-      "twitch": "RoodAnnieMays",
-      "twitter": "TheAnnieMayGirl",
+      "twitch": "AnnieMayPlay",
+      "twitter": "AnnieMayPlay",
       "image": "roodanniemays.png"
     },
     {
-      "name": "SAMMIEMJAY",
+      "name": "SAMMYMJAY",
       "title": "",
       "type": "DEAD BY DAYLIGHT",
       "description": "Sammy is a gay streamer based in UK. He is a fog whisperer for Dead by Daylight and is mainly seen catching and sacrificing survivors with kindness. Sammy has focused on creating a fun, friendly and supportive place for all and help bring LGBTQIA+ representation into Dead By Daylight.",
@@ -841,6 +843,7 @@
       "twitch": "sharkyaenne",
       "twitter": "peachyaenne",
       "instagram": "peachyaenne",
+      "youtube": "PeachyAenne",
       "image": "sharkyaenne.jpg"
     },
     {
@@ -855,17 +858,17 @@
       "image": "simplesammy.jpg"
     },
     {
-      "name": "SLYTQ",
+      "name": "TQ",
       "title": "",
       "type": "VARIETY + ARTIST",
-      "description": "TQ is known for her community interaction and charity work; with a big love for Nintendo, story-driven adventure, and horror games. A storyteller at heart, her Potion Shop and Pastries are always there when you need a little magic. She will absolutely quit a game if you can’t pet the dog.",
+      "description": "TQ is a 'soft & tender' creator known for her community interaction, soft voice, and charity work; with a big love for Nintendo, and Stardew Valley. Working against mental health stigmas, her Potion Shop and Pastries are always there when you need a little magic. Her dream is to one day open a foster/rescue farm and stream it.",
       "priority": 1,
-      "twitch": "SlyTQ",
-      "twitter": "SlyTQ",
+      "twitch": "WitchyTQ",
+      "twitter": "WitchyTQ",
       "instagram": "TQDraws",
-      "youtube": "SlyTQ",
-      "website": "potionshop.ca",
-      "image": "slytq.png"
+      "youtube": "WitchyTQ",
+      "website": "http://potionshop.ca",
+      "image": "witchytq_square.png"
     },
     {
       "name": "SPOOKYDRAWS",
@@ -900,6 +903,7 @@
       "twitch": "the_MerMae",
       "twitter": "the_MerMae",
       "instagram": "the_MerMae",
+      "youtube": "theMerMae",
       "image": "themermae.jpg"
     },
     {
@@ -911,52 +915,74 @@
       "twitch": "TiffanyWitcher",
       "twitter": "_TiffanyWitcher",
       "instagram": "_TiffanyWitcher",
-      "website": "TiffanyWitcher.com",
-      "image": "tiffanywitcher.jpg"
+      "website": "https://TiffanyWitcher.com",
+      "image": "TiffanyWitcher.jpg"
     },
     {
-      "name": "TOPESTV",
+      "name": "TOPAZ",
       "title": "",
       "type": "VARIETY",
       "description": "Topaz is a proud Black Woman and out Lesbian. She is a variety streamer from the Bay Area who loves Apex, and also plays RPGs, Indie Games, and Sports games. She has a quirky personality, a big smile, and a  big heart. She welcomes everyone with open arms.",
       "priority": 1,
-      "twitch": "topestv",
-      "twitter": "_topes",
-      "instagram": "_topes",
-      "youtube": "UCV5PxSaQAV_c3Ng9gJb1_sg",
+      "twitch": "TopazTvee",
+      "twitter": "topaztvee",
+      "instagram": "topaztvee",
       "image": "topestv.JPG"
     },
     {
-      "name": "VENUSWITCHERY",
+      "name": "TRINITY",
       "title": "",
       "type": "VARIETY",
-      "description": "Venus Witchery is an illustrator, witch, and plant mama who streams a variety of RPGS, indie games, and her art! Her Moon Coven is built on empathy, respect, and good vibes. Her streams are just an all around comfy cozy place to vibe out to some lofi and chill!",
+      "description": "Trinity is an illustrator, witch, and plant mama who streams a variety of RPGS, indie games, and her art! Her Moon Coven is built on empathy, respect, and good vibes. Her streams are just an all around comfy cozy place to vibe out to some lofi and chill!",
       "priority": 1,
-      "twitch": "VenusWitchery",
-      "twitter": "VenusWitchery",
-      "instagram": "VenusWitchery",
+      "twitch": "TrinityDanae",
+      "twitter": "_trinitydanae",
+      "youtube": "https://youtube.com/channel/UCfSzjdkX5rc_j9UDhWUuDdw",
+      "website": "https://www.danaebydesign.com",
       "image": "venuswitchery.png"
     },
     {
-      "name": "WXNNIE",
+      "name": "WXNNIE_",
       "title": "",
       "type": "VARIETY",
       "description": "Wxnnie is an incredibly comfy Queer Vietnamese Gray-Ace variety streamer. On their Twitch channel, you’ll find them talking about neurodiversity, making silly puns, and providing a warm place to get cozy while playing Indie games. They welcome you to the Wxnner’s Cafe!",
       "priority": 1,
-      "twitch": "Wxnnie",
+      "twitch": "Wxnnie_",
       "twitter": "_Wxnnie",
       "instagram": "Wxnnie_",
       "image": "wxnnie.png"
     },
     {
-      "name": "Jayyycubbb",
+      "name": "JAYYYCUBBB",
       "title": "",
       "type": "VARIETY",
-      "description": "Jacob is a queer content creator who creates an inclusive and warm space for marginalized communities. When they&#39;re not busy getting looped by a survivor in Dead By Daylight, they enjoy screaming at other competitive and party games. Come join their community for discussions on food, games and life!",
+      "description": "Jacob is a queer content creator who creates an inclusive and warm space for marginalized communities. When they're not busy getting looped by a survivor in Dead By Daylight, they enjoy screaming at other competitive and party games. Come join their community for discussions on food, games and life!",
       "priority": 1,
       "twitch": "jayyycubbb",
       "twitter": "Jayyycubbb",
       "image": "JayyycubbbSquare.png"
+    },
+    {
+      "name": "HUPO",
+      "title": "",
+      "type": "VARIETY + FFXIV",
+      "description": "hupo, formerly HealmeHarry, is a gender fluid FFXIV and Genshin Impact streamer from Australia. On their stream they cover everything from casual to hardcore content, but the comfy vibes are always present kupo!",
+      "priority": 1,
+      "twitch": "hupo",
+      "twitter": "hupotweets",
+      "instagram": "hupogram",
+      "image": "healmeharry.png"
+    },
+    {
+      "name": "DELPHRON",
+      "title": "",
+      "type": "VARIETY",
+      "description": "Originally from Ireland, Delphron a gay and proud content creator now living in America with his husband creates content to connect and learn with those in his community. Creativity, learning together, and queer focused conversations are a lot of what you can expect from his community.",
+      "priority": 1,
+      "twitch": "Delphron",
+      "twitter": "Delphron",
+      "youtube": "Delphron",
+      "image": "delphron.jpg"
     }
   ]
 }
